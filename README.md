@@ -5,7 +5,7 @@ This project involved a detailed cohort analysis to provide a more accurate and 
 
 #### **Objective:**
 1. Adjust CLV calculations to include all users visiting the site, aligning with marketing's broader definition of customer registration.
-2. Analyze weekly cohort data to understand user behavior and revenue trends over a 12-week period post-registration.
+2. Analyze weekly cohort data to understand user behaviour and revenue trends over a 12-week period post-registration.
 3. Predict future revenue for cohorts with incomplete data, providing a forward-looking view of expected customer value.
 
 #### **Data Source:**
@@ -54,6 +54,6 @@ The project successfully provided a detailed, data-driven understanding of custo
 
 This is the link to my [spreadsheet](https://docs.google.com/spreadsheets/d/1P2GucDBzETw7D0KkbRzm-_xLXuAI9WE2OuZESZUox9M/edit?gid=105417213#gid=105417213). The spreadsheet shows my results from the **analysis**, **dashboard**, **the data and my workings**, **insights**, and **recommendations**. 
 
-Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/RFM-Analysis-for-Customer-Segmentation/blob/main/CLV%20and%20customer%20segmentation.sql).
+Note: *I have also attached the .sql file to this repository*. You can also check the SQL Query [here](https://github.com/bayoxx/Customer-lifetime-value-prediction/blob/main/Cohort%20analysis%20for%20customer%20segmentation%20and%20CLV.sql).
 
 
